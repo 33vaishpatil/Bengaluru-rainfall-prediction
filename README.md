@@ -25,8 +25,9 @@ Predict **Annual Rainfall** based on seasonal rainfall data using ML and visuali
   - Seasonal Rainfall Cards
   - Annual Rainfall by District (Bar)
   - Seasonal Contribution (Stacked Column)
-  - Rainfall Trend Line
-  - Drill-down by Season
+  - Sum of Annual Actual (mm) by District/Taluk/Hobli
+  -Average of NEM Actual (mm), Average of Pre-Monsoon Actual (mm) and Average of SWM Actual (mm)
+  
 - File: `bengaluru_rainfall_dashboard.pbix`
 
 ## 📁 Files Included
