@@ -1,2 +1,2 @@
-# engaluru-rainfall-prediction
+# Bengaluru-rainfall-prediction
 ML + Power BI project to analyze and predict rainfall in Bengaluru
